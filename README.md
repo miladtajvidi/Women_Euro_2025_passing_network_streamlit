@@ -20,7 +20,7 @@ You can interact with the passing network visualizer here:
 - **Data Access:** Uses the `statsbombpy` library to access open StatsBomb event data.
 - **Passing Network Calculation:** Extracts starting XIs, computes average player positions, and builds passing matrices for each team, focusing on completed passes between starting players.
 - **Visualization:** Plots side-by-side passing networks for both teams using `mplsoccer` and `matplotlib`, with node sizes and edge widths scaled to reflect pass volume.
-- **Branding:** Central logo and clean design make the plots suitable for presentations and publications.
+
 
 ## How to Use Locally
 
